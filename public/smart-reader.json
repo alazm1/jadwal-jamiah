@@ -1,4 +1,4 @@
 {
-  "url": "https://jadwal-reader.azzam5252.workers.dev/",
-  "note": "ضع هنا رابط Cloudflare Worker الخاص بالقراءة الذكية (انظر worker/README.md). اتركه فارغًا لتعطيلها."
+  "url": "https://jadwal-jamiah-reader.azzam5252.workers.dev/",
+  "note": "خادم القراءة الذكية الخاص بموقع الطلاب (Cloudflare Worker مستقل بمفتاح مستقل). اتركه فارغًا لتعطيل القراءة الذكية."
 }
